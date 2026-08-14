@@ -17,4 +17,4 @@ Days_of_the_week = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Sat
 
 
 display(f'hello. My name is {fullname}, I am {ag3_s} years old.', target='result')
-document.getElementById('result').innerHTML = f'hello. My name is <i>{fullname}</i>, I am {ag3_s} years old. I am {height} cm tall. Some countries I want to visit are {countries_}. Here is some information about me: {student_info}. My favorite fruits are {fruits}.'
+document.getElementById('result').innerHTML = f'hello. My name is <i>{fullname}</i>, I am {ag3_s} years old. I am {height} cm tall. Some countries I want to visit are {countries_}. Here is some information about me: {student_info}. My favorite fruits are {fruits}. The days of the week are {Days_of_the_week}.'
