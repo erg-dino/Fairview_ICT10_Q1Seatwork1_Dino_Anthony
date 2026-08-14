@@ -7,6 +7,7 @@ age = ag3_s = 15  # integer
 height = 172.72  # float
 countries_ = ['Canada', 'Singapore', 'Japan', 'Dubai', 'Israel']  # list
 student_info = {  # Dictionary
+    'color': 'red'
     'car_brand': 'Toyota',
     'shoe_size': 10,
     'best_friends': ['Jacob Minguillo', 'Raphael De Vera', 'Logan Anaque', 'Marcus De Jesus']
